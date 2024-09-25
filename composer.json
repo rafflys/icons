@@ -1,0 +1,10 @@
+{
+  "name": "rafflys/icons",
+  "description": "Rafflys Icons Package",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "Usuario\\Iconos\\": "webroot/font/rafflys-icons"
+    }
+  }
+}
